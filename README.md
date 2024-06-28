@@ -445,4 +445,30 @@ And if you're hungry for more than just a course and want to understand how we l
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
 </a>
 
+
+
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets](#snippets)
+6. 🔗 [Links](#links)
+7. 🚀 [More](#more)
+8. 🧑‍🤝‍🧑 [Team Members](#team-members)
+
+## 🧑‍🤝‍🧑 <a name="team-members">Team Members</a>
+
+We are proud to present the team behind this project:
+
+| Name                        |
+|-----------------------------|
+| Maikol Yoan Ramirez Rosales |
+| Alicia Dieguez              |
+| Wilbert Matos Tellez        |
+| Julio Cesar                 |
+
+
 #
